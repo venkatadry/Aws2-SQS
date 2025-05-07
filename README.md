@@ -7,3 +7,8 @@ Standard Queue: Offers best-effort ordering, at-least-once delivery, and nearly 
 
  
  ![image](https://github.com/user-attachments/assets/7590a641-3b1c-4ad5-8fe0-ec182733e0c9)
+
+ FIFO (First-In-First-Out) Queue: Guarantees the order in which messages are sent and received and ensures exactly-once processing. 
+ FIFO queues are ideal for applications that require strict ordering and de-duplication of messages.
+ ![image](https://github.com/user-attachments/assets/391129d0-bc3e-4c01-9365-b5ccd93c64e3)
+
