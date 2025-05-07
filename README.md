@@ -1,5 +1,10 @@
 # Aws2-SQS
 https://www.youtube.com/watch?v=12CINbV4ptw&list=PLviC8AFqAj5CDH_e9k3idoBOBhVXC-WNm&index=23
+
+
+https://medium.com/avmconsulting-blog/aws-sqs-aws-simple-queue-service-how-sqs-works-fc412837de8c
+
+
 Amazon Simple Queue Service (SQS) is a fully managed message queuing service offered by AWS. It enables decoupling and scaling of microservices, distributed systems, and serverless applications.
 Two Types of Queues:
 
