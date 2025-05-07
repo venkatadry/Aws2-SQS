@@ -20,3 +20,5 @@ Standard Queue: Offers best-effort ordering, at-least-once delivery, and nearly 
 
 Message Retention Period: SQS retains messages in the queue for a configurable period (from 1 minute to 14 days). If a message is not processed within this period, it becomes available for processing by another consumer.
 Delete the messages using the Delete Message API.
+
+When a message is posted in message quue.Point B should poll the message queue to process
