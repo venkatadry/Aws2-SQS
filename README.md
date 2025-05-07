@@ -18,3 +18,5 @@ Standard Queue: Offers best-effort ordering, at-least-once delivery, and nearly 
  FIFO queues are ideal for applications that require strict ordering and de-duplication of messages.
  ![image](https://github.com/user-attachments/assets/391129d0-bc3e-4c01-9365-b5ccd93c64e3)
 
+Message Retention Period: SQS retains messages in the queue for a configurable period (from 1 minute to 14 days). If a message is not processed within this period, it becomes available for processing by another consumer.
+Delete the messages using the Delete Message API.
