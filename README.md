@@ -1,1 +1,9 @@
 # Aws2-SQS
+https://www.youtube.com/watch?v=12CINbV4ptw&list=PLviC8AFqAj5CDH_e9k3idoBOBhVXC-WNm&index=23
+Amazon Simple Queue Service (SQS) is a fully managed message queuing service offered by AWS. It enables decoupling and scaling of microservices, distributed systems, and serverless applications.
+Two Types of Queues:
+Standard Queue: Offers best-effort ordering, at-least-once delivery, and nearly unlimited throughput. Standard queues provide high throughput and are suitable for most applications.
+ (First-In-First-Out) Queue: Guarantees the order in which messages are sent and received and ensures exactly-once
+
+ 
+ ![image](https://github.com/user-attachments/assets/7590a641-3b1c-4ad5-8fe0-ec182733e0c9)
